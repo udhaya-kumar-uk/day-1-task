@@ -1,0 +1,28 @@
+window and document object:
+
+  in this blog we will see the document and window object difference.
+  Window object:
+  the window object represents an open window in a browser.The window is object
+  of browser.
+  The window object automatically generated from browsers.
+  Document object properties inside the window
+  Windowo bject methods
+ (1)alert()-alert a message box in display an ok button
+ (2)blur()-removes from focus
+ (3)atob()-decode a base
+ (4)btoa()-encode a base
+ (5)open()-open the browser window
+ (6)close()-close the browser window
+Document object:
+  The document object represents an html document that is displayed in window
+  When an HTML document is loaded into a browser window,then it becomes a document
+  object.
+  Object properties inside the document.
+Document object methods
+ (1)open()-open the html document to display the output
+ (2)close()-close the html document
+ (3)write()-write html document in javascript
+ (4)writeIn()-write a newline in javascript
+(5)getElementByID()-reference to the specific id
+(6)getElementByName()-reference to the specific name.
+(7)getElementByTagName()-reference to the specific tagname.
